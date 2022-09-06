@@ -1,0 +1,42 @@
+html{
+    font-size: 15px;
+
+
+}
+body {
+    background-color: whitesmoke;
+
+}
+
+a  {
+    color:black
+}
+
+a:visited {
+color:blue
+}
+
+a:hover, a:active {
+    color:red
+}
+
+table{
+    width: 500px;
+}
+th{
+    text-align: left;
+}
+caption{
+    text-align: center;
+    
+}
+table,th,td{
+    border:1px solid #000;
+    border-collapse: collapse;
+    
+}
+th,td{
+    padding: 5px;
+    
+}
+
